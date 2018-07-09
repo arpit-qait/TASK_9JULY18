@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [testquestion1.Test_MyCollection]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="testquestion1.Test_MyCollection">
+        <methods>
+          <include name="Test10_Rotate_Array"/>
+        </methods>
+      </class> <!-- testquestion1.Test_MyCollection -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [testquestion1.Test_MyCollection] -->
